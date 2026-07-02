@@ -1,0 +1,13 @@
+const App = () => {
+  return (
+    <>
+    <div id="DAd">
+      <h1 id="child1"> APP </h1>
+      <h3 id="child2"> hello </h3>
+    </div>
+    <div id="uncle"></div>
+    </>
+  )
+}
+
+export default App
