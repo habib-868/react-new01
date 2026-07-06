@@ -1,16 +1,94 @@
-# React + Vite
+# React Job Cards Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive React application that displays modern job cards for different companies. This project was built to practice React fundamentals such as components, props, and rendering data.
 
-Currently, two official plugins are available:
+## 📸 Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+![Project Preview](./image/preview.png)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- Responsive job card layout
+- Reusable React components
+- Company logos
+- Job title and company information
+- Employment type and experience level tags
+- Salary and location display
+- Clean and modern UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS3
+- HTML5
+
+---
+
+## 📁 Project Structure
+
+```text
+04-cards-project
+│
+├── image
+│   └── preview.png
+├── public
+├── src
+│   ├── components
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── ...
+├── README.md
+└── package.json
+```
+
+---
+
+## ▶️ Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/habib-868/react-new01.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd 04-cards-project
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📚 What I Learned
+
+- Creating reusable React components
+- Passing data using props
+- Organizing React project files
+- Rendering lists using the `map()` method
+- Building responsive UI layouts
+
+---
+
+## 👨‍💻 Author
+
+**Habibullah**
+
+GitHub: https://github.com/habib-868
